@@ -19,7 +19,7 @@ fi
 for file in "$1"/*
 do
 	echo "File '$(basename "$file")' "
-	#echo "$(basename $file)"
+	#echo "$(basename "$file")"
 
 	flashfile="$2/$(basename "$file")"
 
