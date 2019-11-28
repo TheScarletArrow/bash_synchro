@@ -3,6 +3,8 @@
 # It is currently in progress
 # my goal is to syncronise two paths
 # path 1 and path 2
-# from my point of view there are 2 ways
-# 1st is when file is on PC but not on flash drive - then we just copy it to flash
-# 2nd is when we have these files both on PC and flash, we need to find out wheter is newer, and replace the older
+# path 1 and 2 can be anywhere on PC 
+# or external storage device
+# you can set the paths by yourself
+# by defaults are working too
+# but you need to set the right directory
