@@ -1,10 +1,9 @@
-# bashone
-# This is my attempt to make bash file for lab work
-# It is currently in progress
-# my goal is to syncronise two paths
-# path 1 and path 2
-# path 1 and 2 can be anywhere on PC 
-# or external storage device
-# you can set the paths by yourself
-# by defaults are working too
-# but you need to set the right directory
+This is my attempt tp make bash file which:
+compares two directories and synchronizes 'em
+it copies files which are not in the other directory
+and replaces the older version with newer if both files exist
+
+To start the program just type its name, then choose the 2nd in menu
+or you can copy this file and set your own directories by default
+
+If you have any auggestions - I am free to hear them
